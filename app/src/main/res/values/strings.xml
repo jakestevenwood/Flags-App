@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flags</string>
+    <string name="Welcome_Message">FLAGS</string>
+    <string name="Challenge_Prompt">Can You Guess All The Countries?</string>
+    <string name="Study">Study Up</string>
+    <string name="Play">Let\'s Play!</string>
+    <string name="answer4">ANSWER4</string>
+    <string name="answer3">ANSWER3</string>
+    <string name="answer2">ANSWER2</string>
+    <string name="answer1">ANSWER1</string>
+    <string name="defaultTag">defaultTag</string>
+    <string name="skipButtonText">Skip</string>
+    <string name="next_flag">Next Flag</string>
+    <string name="Congrats_Study">WOW! You\'ve Learned All The Flags! Give The Quiz Another Try and Test Your Skills!</string>
+    <string name="let_s_study">Let\'s Study!</string>
+    <string name="Next_Flag">Next Flag</string>
+    <string name="Start_Study">Start</string>
+    <string name="image_of_flag_description">Image of Flag</string>
+    <string name="flags_app_icon_description">Flags App Icon</string>
+</resources>
